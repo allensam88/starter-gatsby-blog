@@ -1,3 +1,15 @@
+.preview {
+  border: 1px solid black;
+  border-radius: 5px 30px;
+  padding: 20px;
+  height: 400px;
+  background: #CAD6F0;
+}
+
+.preview:hover {
+  transform: scale(1.02);
+}
+
 .previewTitle {
   font-size: 1.5em;
 }
